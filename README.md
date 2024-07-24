@@ -139,6 +139,12 @@ where it says add a simple list. Add the SQL.txt file you had then hit start att
 
 
 
+Now hit start attack...
+
+
+
+
+
 
 
 
