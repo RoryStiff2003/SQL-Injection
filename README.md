@@ -23,7 +23,16 @@ In this example I will be showing you how an SQL injection works and showing you
 use a SQL.txt file to attack a web application Login page. As you can see down below there are two
 application images the foxy proxy applications allows me to listen to the port of the web server and be able to 
 see the traffic from there. Burpsuite is an application that works with foxy proxy that allows us to see the web tarffic
-within the web browser.
+within the web browser. I am using OWASP(Open WEb Application secuirty Project) for this example. On the site
+there is a vulnarable web application wich is bWAPP. That will be where I am showing how to do this.
+
+Here are links for setting up virtual box and the 2 application(burpsuite, foxy proxy)...
+
+https://www.youtube.com/watch?v=jHGNLvSpaLs
+
+https://www.youtube.com/watch?v=pfaa9YDypJc&t=315s
+
+
 
 
 
