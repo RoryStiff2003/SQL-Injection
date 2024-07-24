@@ -12,11 +12,14 @@ This usally alllows the attacker to veiw data they normally would not be able to
 attacker can see now is compromised because they can now make changes to the application that can disrupt the 
 applications behavior.
 
-![image](https://github.com/user-attachments/assets/7f323317-8270-4101-ba43-dc3ee530d0e3)
 
+![image](https://github.com/user-attachments/assets/b231c557-c130-4453-9493-9628eb23981b)
 
 
 Example Description: 
+
+
+![image](https://github.com/user-attachments/assets/7f323317-8270-4101-ba43-dc3ee530d0e3)
 
 
 
