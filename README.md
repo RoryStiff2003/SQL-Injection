@@ -146,6 +146,23 @@ Now hit start attack...
 
 
 
+Step 5.
+
+
+Now that you have started the attack it will try to find the SQL commands that work. If you click one of the commands and head over to 
+the response tabe and click the render tab it should show you something like this saying if it was a success or not.
+
+
+
+
+![image](https://github.com/user-attachments/assets/1a401a75-deac-4614-8fdb-02058ffd4da3)
+
+
+
+
+
+
+
 
 
 
