@@ -70,6 +70,30 @@ the tab that says SQL Injection(Login Form).
 
 
 
+Step 2. 
+
+Open up burpsuite and head over to the tab where it says proxy. After doing that there should be a tab that says 
+interception on. What this dose is it allows the application to listen to the foxy proxy running on google or firefox. You will also
+want to head over to the top of your web page and turn of on the foxy proxy.
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/78c43152-5117-442b-a3ca-401fbf9564a2)
+
+
+
+![image](https://github.com/user-attachments/assets/df8758eb-03e1-4d0b-baf0-1f9899a31b64)
+
+
+
+
+
+
+
+
+
 
 
 
