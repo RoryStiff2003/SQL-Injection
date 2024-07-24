@@ -52,6 +52,22 @@ https://www.youtube.com/watch?v=sBzL_zoYt6o
 
 
 
+SQL Injection Example:
+
+
+Step 1. 
+
+
+Create an account with bWAPP then click the tab that says choose your bug. After doing that clcick on
+the tab that says SQL Injection(Login Form). 
+
+
+![image](https://github.com/user-attachments/assets/c0088d2f-ee44-41e2-8bb0-f800bd1a93fc)
+
+
+
+
+
 
 
 
