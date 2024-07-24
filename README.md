@@ -94,7 +94,10 @@ want to head over to the top of your web page and turn of on the foxy proxy.
 
 
 
-Step 3. Next we need to send this to the intruder so we can clear the payloads. Then we need to add a payload wich we will
+Step 3.
+
+
+Next we need to send this to the intruder so we can clear the payloads. Then we need to add a payload wich we will
 highlight the login field and hit the add button wich adds the payload. 
 
 
@@ -120,6 +123,25 @@ tip: first just hit the clear button then hit highlight the login field then hit
 
 
 Step 4. 
+
+
+
+For this step we will need to have an SQL.txt that has a list of common SQL commands for attacking web applications. 
+Aftering obtaining the SQL.txt file we can head over back to burpsuite and go to the payloads tab. Once you are there head to
+where it says add a simple list. Add the SQL.txt file you had then hit start attack in the top right corner of the web application.
+
+
+
+
+![image](https://github.com/user-attachments/assets/f879d557-7564-4dfd-8952-f5e822dddea5)
+
+
+
+
+
+
+
+
 
 
 
