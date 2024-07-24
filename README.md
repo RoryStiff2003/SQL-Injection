@@ -7,6 +7,12 @@ exploit various kinds of SQL injection vulnarabilities, and show you how to prev
 
 what is an SQL Injection?
 
+
+
 ![image](https://github.com/user-attachments/assets/2f2b60b8-b056-412d-ad44-784ca06ff1cf)
+
+
+![image](https://github.com/user-attachments/assets/60e5d4c2-607e-4332-9884-107a7d2aaf5b)
+
 
 
