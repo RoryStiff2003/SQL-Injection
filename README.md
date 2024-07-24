@@ -1,5 +1,8 @@
 # SQL Injection(Login Form)
 
+Name: Rory Stiff
+Date: July 24, 2024
+
 Disclaimer: This is for educational purposes only.
 
 SQL Injection
@@ -165,10 +168,33 @@ the response tabe and click the render tab it should show you something like thi
 summary of what we just did:
 
 
+Using Burpsuite and froxy proxy we succussfully gain access to a data we are not supposed to have. We conducted an SQL injection in bWAPP
+on a Login Form page and showed how we can use these applications to test and to see if the web page is vulnarble to SQL Injection Attacks.
+
+
 
 
 
 How to prevent SQL Injections:
+
+
+step 1. Validate input
+
+
+
+step 2. Prepared querries
+
+
+step 3. cretae prepared staments
+
+
+step 4. Bind the parameters
+
+
+step 5. Execute Query
+
+
+step 6. Fetch result
 
 
 
