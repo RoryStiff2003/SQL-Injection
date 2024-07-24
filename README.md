@@ -19,6 +19,12 @@ applications behavior.
 
 Example Description: 
 
+In this example I will be showing you how an SQL injection works and showing you how to
+use a SQL.txt file to attack a web application Login page. As you can see down below there are two
+application images the foxy proxy applications allows me to listen to the port of the web server and be able to 
+see the traffic from there. Burpsuite is an application that works with foxy proxy that allows us to see the web tarffic
+within the web browser.
+
 
 
 ![image](https://github.com/user-attachments/assets/cbdcad07-4f92-4c95-aa0a-59cfaeb4f5c3)
