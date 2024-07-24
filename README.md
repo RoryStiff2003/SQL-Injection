@@ -119,6 +119,14 @@ tip: first just hit the clear button then hit highlight the login field then hit
 
 
 
+Step 4. 
+
+
+
+
+
+
+
 
 
 
