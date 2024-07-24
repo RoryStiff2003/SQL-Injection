@@ -94,6 +94,33 @@ want to head over to the top of your web page and turn of on the foxy proxy.
 
 
 
+Step 3. Next we need to send this to the intruder so we can clear the payloads. Then we need to add a payload wich we will
+highlight the login field and hit the add button wich adds the payload. 
+
+
+
+
+![image](https://github.com/user-attachments/assets/e5b2eebd-80bc-4838-9652-5c52727b0f34)
+
+
+
+
+
+tip: first just hit the clear button then hit highlight the login field then hit add.
+
+
+
+
+![image](https://github.com/user-attachments/assets/1fc383ff-5165-4cf0-aeee-8d61a9830141)
+
+
+
+
+
+
+
+
+
 
 
 
