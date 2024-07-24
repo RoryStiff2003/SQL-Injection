@@ -1,6 +1,6 @@
 # SQL Injection(Login Form)
 
-Disclaimer: 
+Disclaimer: This is for educational purposes only.
 
 SQL Injection
 
@@ -156,6 +156,24 @@ the response tabe and click the render tab it should show you something like thi
 
 
 ![image](https://github.com/user-attachments/assets/1a401a75-deac-4614-8fdb-02058ffd4da3)
+
+
+
+
+
+
+summary of what we just did:
+
+
+
+
+
+How to prevent SQL Injections:
+
+
+
+
+
 
 
 
