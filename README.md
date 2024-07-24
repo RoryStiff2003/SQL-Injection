@@ -12,7 +12,11 @@ This usally alllows the attacker to veiw data they normally would not be able to
 attacker can see now is compromised because they can now make changes to the application that can disrupt the 
 applications behavior.
 
-![image](https://github.com/user-attachments/assets/2f2b60b8-b056-412d-ad44-784ca06ff1cf)
+![image](https://github.com/user-attachments/assets/7f323317-8270-4101-ba43-dc3ee530d0e3)
+
+
+
+Example Description: 
 
 
 
